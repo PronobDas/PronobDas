@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PronobDas
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning springboot.
-- 💞️ I’m looking to collaborate on any projects or perticipating into internship programs.
+- 🌱 I’m currently learning Spring Boot.
+- 💞️ I’m looking to collaborate on any projects or participating into internship programs.
 - 📫 How to reach me : pronobdas2k16@gmail.com
 
 <!---
