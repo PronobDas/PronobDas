@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @PronobDas
+Hello there,
+- 👋 I’m @PronobDas
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Spring Boot.
 - 💞️ I’m looking to collaborate on any projects or participating into internship programs.
