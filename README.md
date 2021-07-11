@@ -1,8 +1,9 @@
-Hello there,
-- 👋 I’m @PronobDas
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Spring Boot.
-- 💞️ I’m looking to collaborate on any projects or participating into internship programs.
+# Hello World,
+- 👋 This is @PronobDas, 
+- An enthusiast learner, currently a student of L4-T1 of CSE, BUET.
+- 👀 Interested in Web Development
+- 🌱 Currently learning Spring Boot.
+- 💞️ Looking forward to collaborate on any projects or participating into internship programs.
 
 ## How to reach me :
 
