@@ -1,8 +1,8 @@
-## Hello World,
-- 👋 This is @PronobDas, 
-- An enthusiast learner, currently a student of L4-T1 of CSE, BUET.
+## Hello World 👋
+This is @PronobDas <br>
+An enthusiast learner, currently a student of L4-T1 of CSE, BUET.
 - 👀 Interested in Web Development
-- 🌱 Currently learning Spring Boot.
+- 🌱 Currently learning Spring Boot and Angular.
 - 💞️ Looking forward to collaborate on any projects or participating into internship programs.
 
 ## How to reach me :
