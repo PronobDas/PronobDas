@@ -3,7 +3,7 @@ This is @PronobDas <br>
 An enthusiast learner, currently a student of L4-T1 of CSE, BUET.
 - 👀 Interested in Web Development
 - 🌱 Currently learning Spring Boot and Angular.
-- 💞️ Looking forward to collaborate on any projects or participating into internship programs.
+- 💞️ Looking forward to collaborate on any projects or participate into internship programs.
 - 👯 Fun fact: Love to travel and watch tv series & movies.
 
 ## How to reach me :
