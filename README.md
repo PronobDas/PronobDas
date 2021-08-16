@@ -2,7 +2,7 @@
 This is @PronobDas <br>
 An enthusiast learner, currently a student of L4-T1 of CSE, BUET.
 - 👀 Interested in Web Development
-- 🌱 Currently learning Spring Boot and Angular.
+- 🌱 Currently learning Spring Boot and React.
 - 💞️ Looking forward to collaborate on any projects or participate into internship programs.
 - 👯 Fun fact: Love to travel and watch tv series & movies.
 
@@ -25,6 +25,7 @@ An enthusiast learner, currently a student of L4-T1 of CSE, BUET.
 #### Frameworks:
 <img align="left" alt="spring-boot" src="https://img.shields.io/badge/spring-boot-%230077B5.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular-%230077B5.svg?&style=for-the-badge&logo=angular&logoColor=white" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react-%230077B5.svg?&style=for-the-badge&logo=react&logoColor=white" />
 <br>
 
 #### Database:
