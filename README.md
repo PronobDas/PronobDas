@@ -1,6 +1,6 @@
 ## Hello World 👋
 This is @PronobDas <br>
-An enthusiast learner, currently a student of L4-T1 of CSE, BUET.
+An enthusiast learner, currently a student of L4-T2 of CSE, BUET.
 - 👀 Interested in Web Development
 - 🌱 Currently learning Spring Boot and React.
 - 💞️ Looking forward to collaborate on any projects or participate into internship programs.
